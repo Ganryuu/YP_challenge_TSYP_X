@@ -1,7 +1,9 @@
 from flask import Flask , jsonify , request     
 import numpy as np 
+from flask_cors import CORS
 import json 
 app = Flask(__name__) 
+CORS(app)
 
 """importing all different policies so we can choose from
     Aget Name : Phoebe
@@ -71,7 +73,7 @@ def get_task():
         print(type(f))
         
         data = json.load(f)
-        print(type(data))
-        return data
+        
+        return data 
 app.run() 
 
