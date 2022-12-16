@@ -14,6 +14,12 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package
 pip install -r requirements.txt
 ```
 
+to run this api  
+
+```bash
+python app.py
+```
+
 ## Usage
 
 This section is a flask API for the Phoebe computation and responses 
