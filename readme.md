@@ -13,6 +13,9 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package
 ```bash
 pip install -r requirements.txt
 ```
+
+to run this api  
+
 ```bash
 python app.py
 ```
