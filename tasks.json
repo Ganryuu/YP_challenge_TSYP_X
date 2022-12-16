@@ -1,0 +1,70 @@
+{
+    "1": {
+        "task_name": "grabge collector",
+        "task_weight": "8",
+        "description": "Take out radioactive trash", 
+        "status" : "done"
+      }
+    , 
+    "2": {
+        "task_name": "collect samples",
+        "task_weight": "7",
+        "description": "collecting rare samples and materials from surface"
+        ,  "status" : "done"
+    } , 
+    "3": {
+        "task_name": "rest",
+        "task_weight": "9",
+        "description": "get enough hours of sleep and try to adapt to the solar cycle on the moon"
+        ,  "status" : "done"
+    }
+    , 
+    "4": {
+        "task_name": "study and do research",
+        "task_weight": "6",
+        "description": "studying samples and conducting simple diagnostic expirements"
+        ,  "status" : "done"
+        }
+    , 
+    "5": {
+        "task_name": "study and do research",
+        "task_weight": "6",
+        "description": "studying samples and conducting simple diagnostic expirements"
+        ,  "status" : "doing"
+        }
+    , 
+    "6": {
+        "task_name": "maintenance",
+        "task_weight": "10",
+        "description": "performing hardware maintenance is a top priority"
+        ,  "status" : "doing"
+        }
+    , 
+    "7": {
+        "task_name": "remote control rover",
+        "task_weight": "7",
+        "description": "sending the rover to geographically challegning places and unexplored ones reduces a lot of environmental obstacles"
+        ,  "status" : "to do"
+        }
+    , 
+    "8": {
+        "task_name": "stretching",
+        "task_weight": "8",
+        "description": "staying in top physical shape is needed to perform the best way you could"
+        ,  "status" : "doing"
+        }
+    , 
+    "9": {
+        "task_name": "groud control meeting",
+        "task_weight": "6",
+        "description": "sending constant updates in real time helps scientist here at NASA to take the best course of action "
+        ,  "status" : "to do"
+        }
+    , 
+    "10": {
+        "task_name": "explore surroundings",
+        "task_weight": "4",
+        "description": "exploring the topographical areas helps improve and exploit the enviroment more "
+        ,  "status" : "doing"
+    } 
+}

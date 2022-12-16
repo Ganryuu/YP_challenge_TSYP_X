@@ -1,0 +1,10 @@
+
+
+
+first  :the rover will convert the images / video feed it takes from the enviroments + bird view projections to approximate 
+and make the planes 
+( in this case being the terrain surrounding it) to 2 dimensional plane to simplify the task 
+next this terrain is devided into 15 x 15 grid for singular computational learning processes 
+then give coordinate steps for our rover to map over and give feedback to the team back in the mars basement. 
+based on this feedback loop the astronaust (and ground control on planet earth) can optimize and decide on paths 
+with most valuable and less risky and resource wasting trajectories . 

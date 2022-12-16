@@ -1,0 +1,21 @@
+""" EXAMPLE """ 
+
+Time	Wednesday, January 01, 2020, 00:00 UT
+Phase	30.0% (5d 18h 47m)
+Diameter	1774.5 arcseconds
+Distance	403898 km (31.70 Earth diameters)
+J2000 Right Ascension, Declination	23h 15m 39s, -10° 4' 57"
+Subsolar Longitude, Latitude	114.557°, -0.045°
+Sub-Earth Longitude, Latitude	0.773°, 6.360°
+Position Angle	336.353°
+
+
+
+SOURCE : https://svs.gsfc.nasa.gov/4768
+
+
+the moon has no atmosphere to warm up its surface 
+permanant shadows on floor of polar craters
+
+
+The Monte-Carlo algorithm for finding the optimal policy for any place is as follows:
